@@ -5,7 +5,7 @@
 - **Carrera:** Ingeniería de Software
 - **Asignatura:** Modelamiento de Software
 - **Docente:** MSC. Guevara Serrano Jorge Dumar
-- **Período:** Abril 2024 – Agosto 2025
+- **Período:** Abril 2024 – Agosto 2025 (o el que corresponda)
 - **Fecha de entrega:** Jueves, 15 de octubre de 2026
 
 ## Caso de estudio
@@ -35,13 +35,10 @@ El sistema permite:
 
 ## Diagramas UML incluidos
 
-### TPE1 – Diagramas de casos de uso y de interacción
-
+### TPE1 – Modelado de comportamiento mediante casos de uso
 | Diagrama | Archivo editable | Archivo exportado |
 |----------|------------------|-------------------|
-| Diagrama de casos de uso | `TPE1/editables/casos_de_uso.*` | `TPE1/exportados/casos_de_uso.png` |
-| Diagrama de comunicación – CU-02 Realizar reserva | `TPE1/editables/comunicacion_CU02.*` | `TPE1/exportados/comunicacion_CU02.png` |
-| Diagrama de secuencia – CU-02 Realizar reserva | `TPE1/editables/secuencia_CU02.*` | `TPE1/exportados/secuencia_CU02.png` |
+| Diagrama de casos de uso | `TPE1/editables/casos_de_uso.lucid` | `TPE1/exportados/casos_de_uso.png` |
 
 **Casos de uso identificados (14):**
 - CU-01 Consultar disponibilidad (Cliente)
@@ -63,3 +60,12 @@ El sistema permite:
 - «include» de Realizar reserva hacia Procesar pago electrónico.
 - «extend» de Solicitar servicios adicionales hacia Realizar pre check-in.
 - Generalización de Supervisor hacia Empleado.
+
+### TPE2 – Diagrama de comunicación y diagrama de secuencia
+| Diagrama | Archivo editable | Archivo exportado |
+|----------|------------------|-------------------|
+| Diagrama de comunicación – CU-02 Realizar reserva | `TPE2/editables/comunicacion_CU02.lucid` | `TPE2/exportados/comunicacion_CU02.png` |
+| Diagrama de secuencia – CU-02 Realizar reserva | `TPE2/editables/secuencia_CU02.lucid` | `TPE2/exportados/secuencia_CU02.png` |
+
+**Caso de uso analizado:** CU-02 Realizar reserva.  
+**Participantes:** Cliente, Sistema TravelNow, Pasarela de Pagos, Servicio de Correo Electrónico.
