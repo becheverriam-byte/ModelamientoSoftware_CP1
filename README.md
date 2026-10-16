@@ -1,7 +1,7 @@
 # ModelamientoSoftware_CP1
 
 ## Datos del estudiante
-- **Nombre:** [Tu nombre completo]
+- **Nombre:** Echeverria Mora Bryan Jordano
 - **Carrera:** Ingeniería de Software
 - **Asignatura:** Modelamiento de Software
 - **Docente:** MSC. Guevara Serrano Jorge Dumar
