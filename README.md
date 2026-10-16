@@ -63,6 +63,3 @@ El sistema permite:
 - «include» de Realizar reserva hacia Procesar pago electrónico.
 - «extend» de Solicitar servicios adicionales hacia Realizar pre check-in.
 - Generalización de Supervisor hacia Empleado.
-no aplica, indica: "El TPE2 no aplica para este caso o se integra con los diagramas del TPE1 según las indicaciones del docente."
-
-## Organización del repositorio
